@@ -1,0 +1,13 @@
+pacote fictício ("dummy") de transição
+
+
+Este é um pacote fictício de transição para renomear mozilla-plugin-vlc
+para browser-plugin-vlc.
+.
+Este pacote pode ser removido com segurança quando browser-plugin-vlc
+estiver instalado.
+
+
+20130116: embatbr: tradução
+20130116: fernandoike: revisão
+20130116: adrianohenrique: revisão

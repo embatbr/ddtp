@@ -1,0 +1,10 @@
+Media player e editor de vídeo em linha de comando
+
+
+melt foi pensado como uma ferramenta de teste para o framework MLT, mas é
+também um poderoso editor de vídeo de múltiplas faixas ("multitrack") em
+linha de comando. Ele também pode ser usado como um media player
+minimalista para arquivos de áudio e vídeo.
+
+
+20130116: embatbr: tradução

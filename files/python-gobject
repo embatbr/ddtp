@@ -1,0 +1,10 @@
+Vínculos ("bindings") de Python 2.x para GObject - pacote de transição
+    
+    
+Este pacote trará as duas versões dos módulos Python GObject: o módulo
+gobject depreciado, e o novo sistema gobject-introspection. Isto está aqui
+unicamente para propósitos de melhoramento ("upgrade"). Você pode remove-lo
+seguramente quando nada mais depender dele.
+
+
+20130116: embatbr: tradução

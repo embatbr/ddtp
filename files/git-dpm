@@ -1,0 +1,11 @@
+gerenciador de pacotes Debian baseado em git
+
+
+Gerencie pacotes de código fonte Debian em um repositório git, armazenando
+as possíveis modificações em relação ao pacote original como "commits" do
+git, que são armazenados no formato "3.0 (quilt)" de séries de "patch".
+
+
+20130115: pauloborges: tradução
+20130117: adrianohenrique: revisão
+20130117: embatbr: revisão

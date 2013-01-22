@@ -1,0 +1,12 @@
+aprenda piano jogando
+
+
+Piano Booster é uma nova forma de aprender piano usando jogos. Utiliza elementos do Guitar Hero mas com teclado de piano real, além de ter sido rotacionado de forma que as notas passem por uma partitura.  Em vez de apertar botões numa guitarra falsa, você aprende a tocar um instrumento musical de verdade: o piano.
+.
+Para rodar Piano Booster, você deve ter um teclado de piano MIDI e uma interface MIDI para computador. Se não possuir um teclado MIDI, você ainda pode experimentar o PianoBooster usando o teclado de computador ('x' é o dó central), mas um piano MIDI é realmente recomendado.
+
+
+20121222: ldutra: revisão
+20121229: fred_maranhao: revisão
+20130102: fernandoike: revisão (Acho que o MIDI deveria ficar como maiúsculo. Ele é um acrônimo
+20130117: embatbr: revisão e muitas alterações

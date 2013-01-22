@@ -1,0 +1,16 @@
+banco de dados Trivial - biblioteca compartilhada
+
+
+TDB é uma Interface de Programação de Aplicativos (API) simples de banco
+de dados. Foi modelado depois da estruturação do GDBM. TDB fornece,
+diferentemente do GDBM, suporte a múltiplas escritas com sincronia
+("locking") e transações apropriadas.
+.
+Esse pacote contém o arquivo da biblioteca compartilhada.
+
+
+20130113: pauloborges: tradução (foi difícil traduzir "locking". escolhi colocar sincronia, porque um "lock" é um mecanismo de sincronia.)
+20130114: fernandoike: revisão
+20130117: fred_maranhao: revisão
+20130117: embatbr: revisão e pequena alteração
+

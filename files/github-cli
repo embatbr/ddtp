@@ -1,0 +1,12 @@
+interface em linha de comando para a API GitHub Issues
+
+
+Fornece um executável chamado ghi, que pode ser usado para acessar todas as
+funcionalidades documentadas da Issues API (v2) do GitHub a partir da linha
+de comando.
+
+
+20130108: fred_maranhao: tradução
+20130108: fernandoike: revisão
+20130112: pauloborges: 'APT' não deveria ser 'API'? não encontrei tal correlação na wordlist, mas não modifiquei por não ter certeza.
+20130116: embatbr: Troquei 'APT' por 'API'.

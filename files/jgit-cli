@@ -1,0 +1,14 @@
+implementação Java do controle de versão Git (interface em linha de comando)
+
+
+JGit é uma biblioteca Java pura e leve que implementa o sistema de
+controle de versão Git.
+.
+Esse pacote fornece uma interface em linha de comando para interação do
+usuário com o jgit.
+
+
+20130113: pauloborges: tradução
+20130115: fred_maranhao: revisão
+20130118: fernandoike: revisão
+20130118: embatbr: revisão

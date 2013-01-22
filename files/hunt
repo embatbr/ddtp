@@ -1,0 +1,9 @@
+Pacote avançado de sniffer e intrusão de conexão
+
+
+Hunt é um programa para intrusão em uma conexão, observá-la e resetá-la.
+.
+Note que como hunt opera sobre Ethernet, ele é melhor usado para conexões que podem ser observadas por ele. Contudo, é possível fazer algo até mesmo para hosts em outros segmentos ou hosts em portas comutadas.
+
+
+20130116: embatbr: tradução

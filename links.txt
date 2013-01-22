@@ -1,0 +1,27 @@
+dvd+rw-tools http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/dvd+rw-tools?1358437595
+
+git-daemon-sysvinit http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/git-daemon-sysvinit?1358646663
+
+git-dpm http://ddtp.debian.net/ddtss/index.cgi/pt_BR/translated/pt_BR/logs/1358504680/git-dpm
+
+github-cli http://ddtp.debian.net/ddtss/index.cgi/pt_BR/translated/pt_BR/logs/1358545361/github-cli
+
+hunt http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/hunt?1358545516
+
+jgit-cli http://ddtp.debian.net/ddtss/index.cgi/pt_BR/translated/pt_BR/logs/1358515226/jgit-cli
+
+libgudev-1.0-0 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/libgudev-1.0-0?1358554039
+
+libtdb1 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/libtdb1?1358476518
+
+melt http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/melt?1358540437
+
+mozilla-plugin-vlc http://ddtp.debian.net/ddtss/index.cgi/pt_BR/translated/pt_BR/logs/1358545330/mozilla-plugin-vlc
+
+pianobooster http://ddtp.debian.net/ddtss/index.cgi/pt_BR/translated/pt_BR/logs/1358646104/pianobooster
+
+policykit-1 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/policykit-1?1358554125
+
+python-gobject http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/python-gobject?1358545654
+
+xbmc http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/xbmc?1358438009

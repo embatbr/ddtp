@@ -1,0 +1,16 @@
+ferramentas DVD+-RW/R
+
+
+A suíte de ferramentas dvd+rw permite queimar imagens de DVD criadas por
+dvdauthor ou genisoimage para discos DVD+R, DVD_RW, DVD-R, e DVD-RW,
+substituindo cdrecord-proDVD em muitos casos.
+.
+Este pacote contém dvd+rw-mediainfo (para dar detalhes sobre discos de
+DVD), e alguns programas para controlar a velocidade de escrita e obter
+informação a partir do DVD-RAM.
+.
+Adicionalmente, ele depende do pacote growisofs prover o front-end
+principal para queimar mídias tipo DVD.
+
+
+20130116: embatbr: tradução

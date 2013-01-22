@@ -1,0 +1,22 @@
+sistema de controle de versão rápido, escalável e distribuído (serviço git-daemon)
+
+
+Git é um sistema de controle de versão popular projetado para manipular
+grandes projetos com velocidade e eficiência; é usado em vários projetos de
+código aberto de alto desempenho, mais notavelmente o núcleo ("kernel") do
+Linux.
+.
+Git encontra-se na categoria de ferramentas de gestão de código fonte distribuídas.
+Cada diretório de trabalho do Git é um repositório completo com
+competências de acompanhamento de revisões, que não depende da rede nem de
+um servidor central.
+.
+git-daemon, como vem no pacote git, é um servidor simples para repositórios
+git, feito especialmente para atualizações somente-leitura, ou seja, para
+puxar repositórios git através da rede. Este pacote fornece um serviço
+sysvinit para executar o git-daemon permanentemente.
+
+
+20130107: fred_maranhao: tradução
+20130108: fernandoike: revisão
+

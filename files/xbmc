@@ -1,0 +1,27 @@
+Centro de Mídias XBMC ("XBMC Media Center") (pacote de dados independente de arquitetura)
+
+
+XBMC, acrônimo recursivo para "XBMC Media Center" (Centro de Mídias XBMC),
+é um premiado tocador de mídias ("media-player") e ponto central de
+entretenimento ("entertainment hub") de código livre e aberto para todas as
+suas mídias digitais. XBMC está disponível para Linux, Mac OS X (Leopard,
+Tiger e Apple TV) e Microsoft Windows, assim como o console Xbox original.
+Criado em 2003 por um grupo de programadores preocupados, XBMC é um projeto
+sem fins lucrativos desenvolvido por voluntários de todo o mundo. Mais de
+50 desenvolvedores já contribuiram com XBMC, e 100 ou mais tradutores já
+trabalharam para expandir seu alcance, tornando-o disponível em mais de 30
+idiomas.
+.
+Enquanto XBMC funciona muito em como um tocador de mídias ("media player")
+padrão para o seu computador, ele foi projetado para ser a companhia
+perfeita para o seu HTPC. Supportando um alcance quase ilimitado de
+controles remotos, e combinado com a sua bela interface e seu poderoso
+motor, XBMC <feels> totalmente natural de ser usado a partir do sofá e é a
+solução ideal para o seu home theater. Uma vez instalado, seu computador se
+tornará um jukebox multimídia totalmente compatível.
+.
+Este pacote contém todos os dados, independentes de arquitetura,
+necessários para ter um XBMC funcional.
+
+
+20130116: embatbr: tradução
