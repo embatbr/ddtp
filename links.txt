@@ -25,3 +25,17 @@ policykit-1 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/policykit-1?1
 python-gobject http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/python-gobject?1358545654
 
 xbmc http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/xbmc?1358438009
+
+yap http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/yap?1358436916
+
+gitit http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gitit?1358949466
+
+stella http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/stella?1358950958
+
+evolution http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/evolution?1358951418
+
+mplayer http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/mplayer?1358951740
+
+transmission-gtk http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/transmission-gtk?1358952344
+
+gnome-dictionary http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-dictionary?1358952637
