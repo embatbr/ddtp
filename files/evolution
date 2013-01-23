@@ -1,0 +1,31 @@
+suíte para trabalho em grupo com cliente de e-mail e organizador
+
+
+Evolution é uma suíte para trabalho em grupo que integra correio,
+calendário, agenda de contatos, lista de tarefas e ferramentas de memorando.
+.
+Recursos adicionais incluem integração com servidores Exchange, cliente newsgroup, suporte a LDAP e calendários web.
+.
+Evolution é uma aplicação gráfica que é parte do GNOME e é distribuída pela
+Novell, Inc.
+.
+Acesse http://projects.gnome.org/evolution/ para mais informações.
+.
+Os seguintes complementos pertencentes ao conjunto "base" estão incluídos.
+ - calendar-file
+ - calendar-http
+ - itip-formatter
+ - default-source
+ - addressbook-file
+ - mark-all-read
+ - publish-calendar
+ - caldav
+ - imap-features
+ - google-account-setup
+ - webdav-account-setup
+ - calendar-weather
+ - sa-junk-plugin
+ - bogo-junk-plugin
+
+
+20130123: embatbr: tradução
