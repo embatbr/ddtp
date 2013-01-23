@@ -1,0 +1,31 @@
+motor wiki suportado por um repositório git ou darcs
+
+
+Gitit é uma wiki suportada por um repositório git ou darcs. Páginas e
+arquivos enviados podem ser modificados tanto diretamente pelas ferramentas
+em linha de comando do Sistema de Controle de Versões quanto pela
+interface web da wiki. Pandoc é utilizado para o processamento de marcações
+("markup"). Dessa forma, as páginas podem ser escritas em markdown
+(extendido), reStructuredText, LaTeX, HTML ou Haskell literal, e serem
+exportadas em 10 formatos diferentes, incluindo LaTeX, ConTeXt, DocBook,
+RTF, OpenOffice ODT e marcação MediaWiki.
+.
+Outros recursos incluem:
+ * extensões: transformações de página dinamicamente carregada escritas em Haskell;
+ * categorias;
+ * suporte para Unicode;
+ * matemática TeX através do texmath;
+ * realce de sintaxe de arquivos de código fonte e trechos de código
+   através do highlighting-kate;
+ * as páginas da wiki podem ser vistas como apresentações de slides;
+ * sistema de cache;
+ * feeds Atom (por site e por página);
+ * uma biblioteca, chamada Network.Gitit, que simplifica a inclusão de uma
+   wiki gitit em qualquer aplicação happstack;
+ * páginas podem ser escritas diretamente em Haskell literal.
+
+
+20130115: pauloborges: tradução
+20130117: fred_maranhao: revisão
+20130118: fernandoike: revisão
+20130123: embatbr: revisão e modificação
