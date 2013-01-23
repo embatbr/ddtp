@@ -1,0 +1,16 @@
+sistema prolog de alto desempenho
+
+
+Compilador Prolog de alto desempenho desenvolvido em LIACC/Universidade
+do Porto e no COPPE Sistemas/UFRJ. O motor Prolog YAP é baseado na máquina
+abstrata Warren, com várias otimizações para melhor desempenho. O YAP segue
+a tradição de Edinburgh, e é amplamente compatível com o ISO-Prolog padrão
+e com o Quintus e o SICStus Prolog.
+.
+YAP possui um resolvedor de retrições sobre números reais, e suporte a
+regras de manipulação de restrições (constraint handling rules -- CHR).
+
+
+20130117: fred_maranhao: tradução
+20130118: fernandoike: revisão
+20130123: embatbr: revisão
