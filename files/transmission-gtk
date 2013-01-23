@@ -1,0 +1,9 @@
+Cliente BitTorrent leve (interface GTK)
+
+
+Transmission é um conjunto de cliente BitTorrent leves (em GUI, CLI e daemon form). Todas as suas encarnações apresentam uma interface bastante simples e intuitiva em cima de um back-end eficiente e interplataforma.
+.
+Este pacote contém o cliente autônomo GTK.
+
+
+20130123: embatbr: tradução
