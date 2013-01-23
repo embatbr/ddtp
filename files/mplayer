@@ -1,0 +1,16 @@
+reprodutor de filmes para sistemas estilo Unix
+
+
+O MPlayer toca a maioria dos arquivos MPEG, VOB, AVI, Ogg/OGM, VIVO,
+ASF/WMA/WMV, QT/MOV/MP4, FLI, RM, NuppelVideo, yuv4mpeg, FILM, RoQ e PVA,
+que recebem suporte de vários codecs nativos, XAnim, RealPlayer e Win32
+DLL. Ele também pode reproduzir filmes em VideoCD, SVCD, DVD, 3ivx,
+RealMedia e DivX.
+.
+Um outro grande recurso do MPlayer é a grande variedade de drivers de saída suportados. Ele trabalha com X11, Xv, DGA, OpenGL, SVGAlib, fbdev, DirectFB, mas também SDL.
+.
+Nem todo o código do autor original ("upstream") é distribuído neste
+pacote. Veja o README.Debian e os arquivos de copyright para detalhes.
+
+
+20130123: embatbr: tradução
