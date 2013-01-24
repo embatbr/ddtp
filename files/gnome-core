@@ -1,0 +1,12 @@
+Ambiente de área de trabalho GNOME -- componentes essenciais
+
+
+Estes são os componentes essenciais do ambiente de trabalho GNOME, uma área
+de trabalho intuitiva e atraente.
+.
+Este meta-pacote depende de conjunto básico de programas, incluindo um gerenciador de arquivos, um visualizador de imagens, um navegador web, um vídeo player e outras ferramentas.
+.
+Ele contém os módulos essenciais oficiais da área de trabalho GNOME.
+
+
+20130124: embatbr: tradução

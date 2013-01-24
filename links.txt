@@ -43,3 +43,15 @@ gnome-dictionary http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-di
 libgnutls28 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/libgnutls28?1358995822
 
 gnome-media http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-media?1358681403
+
+espeak http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/espeak?1359069090
+
+gnome-screenshot http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-screenshot?1359069264
+
+gnome-search-tool ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-search-tool?1359069467
+
+gnome-system-log http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-system-log?1359069820
+
+gnome-core http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-core?1359070082
+
+tcl http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/tcl?1359071051

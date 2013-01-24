@@ -1,0 +1,9 @@
+A Ferramenta Command Language (versão padrão) - arquivos de execução
+
+
+Tcl é uma poderosa, fácil de usar, embarcável, interplataforma linguagem de script interpretada.
+.
+Este é um pacote dependente da versão padrão do Tcl do Debian.
+
+
+20130124: embatbr: tradução. A última frase foi traduzida de forma menos literal, de modo a não ficar muito redundante ("Este pacote é um pacote de dependências, que depende ...").

@@ -1,0 +1,18 @@
+Software sintetizador de voz multi-idioma
+
+
+eSpeak é um software sintetizador de voz para Inglês, e alguns outros idiomas.
+.
+eSpeak produz fala em Inglês de boa qualidade. Ele usa um método de síntese diferente de outros motores "texto para fala" (text to speech - TTS) de código aberto, e soa bastante diferente. Ele é talvez não tão natural ou "suave", mas para alguns a articulação é clara e fácil de entender por longos períodos.
+.
+Ele pode ser executado em linha de comando para ditar texto de um arquivo ou da entrada padrão.
+.
+  * Inclui diferentes Vozes, cujas características podem ser alteradas.
+  * Pode produzir saída de fala como um arquivo WAV.
+  * Pode traduzir texto para códigos fonéticos, sendo então adaptado como uma interface para outros motores de síntese de voz.
+  * Potencial para outras línguas. Mais de 40 línguas inclusas.
+  * Tamanho compacto. O programa e seus dados totalizam 350 kbytes.
+  * Escritos em C++.
+
+
+20130124: embatbr: tradução
