@@ -1,9 +1,9 @@
 biblioteca invólucro ("wrapper") baseada em GObject para libudev
 
 
-Essa biblioteca torna o uso da libudev muito simples para programas que
-já utilizam GObject. Ela também torna possível usar facilmente a libudev
-de outras linguagens de programação, como Javascript, por causa do
+Essa biblioteca facilita o uso da libudev em programas que
+já utilizam GObject. Ela também possibilita usar facilmente a libudev
+em outras linguagens de programação, como Javascript, por causa do
 suporte a introspecção do GObject.
 
 
@@ -11,3 +11,7 @@ suporte a introspecção do GObject.
 20130115: fred_maranhao: revisão
 20130115: adrianohenrique: revisão.
 20130116: embatbr: revisão
+20130118: fernandoike: revisão
+20130118: fred_maranhao: revisão
+20130120: fernandoike: revisão
+20130123: embatbr: revisão

@@ -1,8 +1,8 @@
 framework pra gerenciamente de políticas e privilégios administrativos
 
 
-PolicyKit é um toolkit a nível de aplicação para definir e tratar a
-política que permite a processos desprivilegiados comunicarem-se com
+PolicyKit é um kit de ferramentas a nível de aplicação para definir e
+tratar a política que permite a processos desprivilegiados comunicarem-se com
 processos privilegiados.
 .
 É um framework para centralizar a decisão criando processos a respeito de
@@ -10,3 +10,6 @@ garantir acesso a operações privilegiadas a aplicações desprivilegiadas.
 
 
 20130116: embatbr: tradução
+20130118: fernandoike: revisão
+20130118: fred_maranhao: revisão
+20130121: fernandoike: revisão

@@ -1,0 +1,11 @@
+utilitários de mídia GNOME
+
+
+Este pacote provê alguns utilitários de mídia para o área de trabalho Gnome:
+ * O Gravador de Som GNOME;
+ * O mini aplicativo de propriedades do GStreamer.
+
+
+20130120: fernandoike: tradução (O termo GNOME Sound Recorder foi traduzido baseado à tradução do time do Gnome)
+20130120: fred_maranhao: revisão
+20130123: embatbr: revisão

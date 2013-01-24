@@ -1,0 +1,23 @@
+biblioteca TLS da GNU - biblioteca de execução principal
+
+
+GnuTLS é uma biblioteca portável que implementa os protocolos Transport Layer Security (TLS 1.0, 1.1, 1.2), Secure Sockets Layer (SSL) 3.0 e Datagram TLS 1.0.
+.
+A GnuTLS suporta:
+ - extensões TLS: indicação de nome de servidor, tamanho de registro
+   máximo, entrada PRF opaca, etc.
+ - autenticação usando o protocolo SRP.
+ - autenticação usando tanto certificados X.509 quanto chaves OpenPGP.
+ - extensão de TLS Pre-Shared-Keys (PSK).
+ - extensão Inner Application (TLS/IA).
+ - manipulação de certificados X.509 e OpenPGP.
+ - X.509 Proxy Certificates (RFC 3820).
+ - todos os algoritmos de criptografia fortes (incluindo SHA-256/384/512 e
+   Camellia (RFC 4132)).
+.
+Este pacote contém a biblioteca de execução principal.
+
+
+20130116: fred_maranhao: tradução
+20130118: fernandoike: revisão
+20130123: embatbr: revisão e alteração

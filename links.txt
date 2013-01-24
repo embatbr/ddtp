@@ -39,3 +39,7 @@ mplayer http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/mplayer?135895174
 transmission-gtk http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/transmission-gtk?1358952344
 
 gnome-dictionary http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-dictionary?1358952637
+
+libgnutls28 http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/libgnutls28?1358995822
+
+gnome-media http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-media?1358681403
