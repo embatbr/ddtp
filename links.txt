@@ -55,3 +55,11 @@ gnome-system-log http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-sy
 gnome-core http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gnome-core?1359070082
 
 tcl http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/tcl?1359071051
+
+gconf-editor http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/gconf-editor?1359071379
+
+software-center http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/software-center?1359072536
+
+totem-plugins http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/totem-plugins?1359073215
+
+magic http://ddtp.debian.net/ddtss/index.cgi/pt_BR/forreview/magic?1359073930

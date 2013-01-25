@@ -1,0 +1,10 @@
+Editor para o sistema de configuração GConf
+
+
+GConf-Editor é uma ferramenta usada para editar a base de dados de
+configuração GConf. Este não é o modo recomendado de configurar preferências
+do ambiente de trabalho, mas ele pode ser útil quando o utilitário de
+configuração apropriado para algum programa não fornecer nenhum modo de mudar alguma opção
+
+
+20130124: embatbr: tradução

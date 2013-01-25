@@ -1,0 +1,7 @@
+Ferramenta de layout VLSI
+
+
+Magic é uma venerável ferramenta de desenho VLSI, escrita nos anos 1980 em Berkeley por John Ousterhout, agora famoso primariamente for ter escrito a linguagem de script interpretada Tcl. Em grande parte pela licença de código aberto Berkeley, magic tem se mantido popular em universidades e pequenas companhias. A licença de código aberto tem permitido engenheiros VLSI com uma inclinação à programação implementar idéias inteligentes e ajudar magic a acompanhar as tecnologias de fabricação. Entretanto, são os bem pensados algoritmos de base que emprestam ao magic a maior parte de sua popularidade. Magic é amplamente citado como a ferramenta mais fácil de usar para desenhar circuitos, até para pessoas que dependem, em última análise, de ferramentas comerciais para seu fluxo de projeto.
+
+
+20130124: embatbr: tradução

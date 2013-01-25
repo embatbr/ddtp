@@ -1,0 +1,25 @@
+Complementos para o media player Totem
+
+
+O Totem é um tocador de mídia simples, mas cheio de recursos, para
+GNOME que pode ler uma grande variedade de formatos de arquivo.
+.
+Este pacote contém um conjunto de complementos recomendados para Totem, que permitem:
+.
+   * Anotações na tela com a ferramenta Gromit
+   * Controla o Totem com um controle remoto de infravermelho
+   * Controla o Totem com as teclas de mídia player do teclado
+   * Mantém a janela do Totem no topo da tela
+   * Exibe propriedade do filme
+   * Desativa a proteção de tela quando um filme estiver em exibição
+   * Pula para um instante definido no filme
+   * Define o status ausente no messenger quando o filme está em exibição
+   * Controle o Totem com um telefone celular usando o protocolo Bluetooth
+   * Compartilha a playlist atual via HTTP
+   * Pesquisa, procura por e exibe vídeos do Youtube
+   * Pesquisa por vídeos usando tracker
+.
+Complementos adicionais podem  ser escritos em C, Python ou Vala.
+
+
+20130124: embatbr: tradução
